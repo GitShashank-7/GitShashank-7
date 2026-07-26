@@ -140,6 +140,6 @@ Shashank Jena, GitShashank-7, Shashank Jena GitHub, Shashank Jena BITS Pilani, I
 <!-- Footer gradient divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Divider Line" />
 
-<sub><i>Shashank Jena (GitShashank-7) | Powered by Shields.io & Vercel Analytics</i></sub>
+<sub><i>Shashank Jena (GitShashank-7)</i></sub>
 
 </div>
