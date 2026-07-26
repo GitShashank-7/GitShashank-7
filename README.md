@@ -18,39 +18,6 @@
 
 <br />
 
-### 🌟 About Me
-
-```json
-{
-  "name": "Shashank",
-  "identity": [
-    "🎓 Student @ BITS Pilani",
-    "💼 Working Professional in Software & Tech",
-    "🚀 Open Source Enthusiast & Community Builder"
-  ],
-  "expertise": {
-    "academics": ["Operating Systems", "Algorithm Design", "Humanities & System Design"],
-    "engineering": ["Full Stack Development", "API Architecture", "Automation Workflows"],
-    "open_source": ["Tooling", "GitHub Actions", "Community Knowledge Repositories"]
-  },
-  "current_motto": "Blending academic rigor with industry practice to build open-source magic."
-}
-```
-
----
-
-<div align="center">
-
-### 🏆 Interactive Achievement Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophies">
-  <img src="https://github-profile-trophies.vercel.app/?username=GitShashank-7&theme=synthwave&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Profile Trophies" />
-</a>
-
-</div>
-
----
-
 ### 🧰 Tech Stack & Professional Toolkit
 
 <table align="center" width="100%">
@@ -98,54 +65,34 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/GitShashank-7">
-        <img src="https://github-readme-stats.vercel.app/api?username=GitShashank-7&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Shashank's GitHub Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitShashank-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Shashank's GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/GitShashank-7">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitShashank-7&theme=synthwave&hide_border=true" width="100%" alt="Shashank's Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitShashank-7&theme=tokyonight&hide_border=true" width="100%" alt="Shashank's Streak Stats" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/GitShashank-7">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitShashank-7&layout=compact&theme=synthwave&hide_border=true&langs_count=8" width="100%" alt="Most Used Languages" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitShashank-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Most Used Languages" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/GitShashank-7">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" width="100%" alt="Dev Quote" />
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quote" />
       </a>
     </td>
   </tr>
 </table>
 
-</div>
-
----
-
-### 📈 Live GitHub Activity Graph
-
-<div align="center">
+<br />
 
 <a href="https://github.com/GitShashank-7">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitShashank-7&theme=react-dark&hide_border=true&area=true" width="100%" alt="Live Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitShashank-7&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Live Activity Graph" />
 </a>
-
-</div>
-
----
-
-### 🐍 Live Contribution Snake Animation
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GitShashank-7/GitShashank-7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GitShashank-7/GitShashank-7/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GitShashank-7/GitShashank-7/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
 
 </div>
 
@@ -160,7 +107,7 @@
 | 🎓 **Academic** | **[BITS-StudyHub](https://github.com/GitShashank-7/BITS-StudyHub)** | Lecture transcripts, automated pipelines & weekly course summaries | `Python` `Markdown` |
 | ⚙️ **Systems** | **[Operating Systems](https://github.com/GitShashank-7/BITS-StudyHub/tree/main/operating-system)** | IPC, memory management, process synchronization & C system calls | `C` `C++` `Linux` |
 | 🧠 **Algorithms** | **[Algorithm Design](https://github.com/GitShashank-7/BITS-StudyHub/tree/main/algorithm-design)** | Graph algorithms, dynamic programming & optimization problems | `Python` `C++` |
-| 🌐 **Open Source** | **[Profile README](https://github.com/GitShashank-7/GitShashank-7)** | Automated live GitHub profile with daily snake contribution workflow | `GitHub Actions` `SVG` |
+| 🌐 **Open Source** | **[Profile README](https://github.com/GitShashank-7/GitShashank-7)** | Automated live GitHub profile with dynamic analytics & styling | `GitHub Actions` `SVG` |
 
 </div>
 
@@ -188,6 +135,6 @@
 <!-- Footer gradient divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" />
 
-<sub><i>Designed with ⚡ Synthwave Neon for GitShashank-7 | Powered by GitHub Actions & Shields.io</i></sub>
+<sub><i>Designed with ⚡ Synthwave Neon for GitShashank-7 | Powered by Shields.io & Vercel Analytics</i></sub>
 
 </div>
