@@ -57,41 +57,6 @@
 
 ---
 
-### ⚡ Live GitHub Analytics & Real-Time Stats
-
-<div align="center">
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/GitShashank-7">
-        <img src="https://github-readme-stats.vercel.app/api?username=GitShashank-7&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Shashank's GitHub Stats" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/GitShashank-7">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitShashank-7&theme=synthwave&hide_border=true" width="100%" alt="Shashank's Streak Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/GitShashank-7">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitShashank-7&layout=compact&theme=synthwave&hide_border=true&langs_count=8" width="100%" alt="Most Used Languages" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/GitShashank-7">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" width="100%" alt="Dev Quote" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ### 📈 Live GitHub Activity Graph
 
 <div align="center">
@@ -99,20 +64,6 @@
 <a href="https://github.com/GitShashank-7">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitShashank-7&theme=react-dark&hide_border=true&area=true" width="100%" alt="Live Activity Graph" />
 </a>
-
-</div>
-
----
-
-### 🐍 Live Contribution Snake Animation
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GitShashank-7/GitShashank-7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GitShashank-7/GitShashank-7/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GitShashank-7/GitShashank-7/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
 
 </div>
 
