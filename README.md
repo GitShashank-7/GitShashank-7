@@ -18,18 +18,6 @@
 
 
 
-<div align="center">
-
-### 🏆 Interactive Achievement Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophies">
-  <img src="https://github-profile-trophies.vercel.app/?username=GitShashank-7&theme=synthwave&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Profile Trophies" />
-</a>
-
-</div>
-
----
-
 ### 🧰 Tech Stack & Professional Toolkit
 
 <table align="center" width="100%">
