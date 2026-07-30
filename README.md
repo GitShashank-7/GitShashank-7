@@ -7,7 +7,7 @@ Shashank Jena, GitShashank-7, Shashank Jena GitHub, Shashank Jena BITS Pilani, I
 
 <!-- Live Neon Typing SVG Header -->
 <a href="https://github.com/GitShashank-7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi+👋+I'm+Shashank+Jena!;Student+%40+BITS+Pilani+%F0%9F%8E%93;Software+Engineer+%F0%9F%92%BC;Open+Source+Enthusiast+%26+Builder+%F0%9F%9A%80;Crafting+Scalable+Systems+%26+Automations+%E2%9A%A1" alt="Shashank Jena (GitShashank-7) - Software Engineer & BITS Pilani Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi+%F0%9F%90%8B+I'm+Shashank+Jena!;Student+%40+BITS+Pilani+%F0%9F%8E%93;Software+Engineer+%F0%9F%92%BC;Open+Source+Enthusiast+%26+Builder+%F0%9F%9A%80;Crafting+Scalable+Systems+%26+Automations+%E2%9A%A1" alt="Shashank Jena (GitShashank-7) - Software Engineer & BITS Pilani Student" />
 </a>
 
 <p align="center">
