@@ -16,28 +16,7 @@
 
 </div>
 
-<br />
 
-### 🌟 About Me
-
-```json
-{
-  "name": "Shashank",
-  "identity": [
-    "🎓 Student @ BITS Pilani",
-    "💼 Working Professional in Software & Tech",
-    "🚀 Open Source Enthusiast & Community Builder"
-  ],
-  "expertise": {
-    "academics": ["Operating Systems", "Algorithm Design", "Humanities & System Design"],
-    "engineering": ["Full Stack Development", "API Architecture", "Automation Workflows"],
-    "open_source": ["Tooling", "GitHub Actions", "Community Knowledge Repositories"]
-  },
-  "current_motto": "Blending academic rigor with industry practice to build open-source magic."
-}
-```
-
----
 
 <div align="center">
 
