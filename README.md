@@ -69,32 +69,9 @@ Shashank Jena, GitShashank-7, Shashank Jena GitHub, Shashank Jena BITS Pilani, I
 
 <div align="center">
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/GitShashank-7">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GitShashank-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Shashank Jena GitHub Stats" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/GitShashank-7">
-        <img src="https://streak-stats.demolab.com/?user=GitShashank-7&theme=tokyonight&hide_border=true" width="100%" alt="Shashank Jena Streak Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/GitShashank-7">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GitShashank-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Shashank Jena Most Used Languages" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/GitShashank-7">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Developer Quote" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/GitShashank-7">
+  <img src="https://streak-stats.demolab.com/?user=GitShashank-7&theme=tokyonight&hide_border=true" alt="Shashank Jena Streak Stats" />
+</a>
 
 <br />
 
