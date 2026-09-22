@@ -94,7 +94,7 @@ Shashank Jena, GitShashank-7, Shashank Jena GitHub, Shashank Jena BITS Pilani, I
 | 🎓 **Academic** | **[BITS-StudyHub](https://github.com/GitShashank-7/BITS-StudyHub)** | Lecture transcripts, automated pipelines & weekly course summaries | `Python` `Markdown` |
 | ⚙️ **Systems** | **[Operating Systems](https://github.com/GitShashank-7/BITS-StudyHub/tree/main/operating-system)** | IPC, memory management, process synchronization & C system calls | `C` `C++` `Linux` |
 | 🧠 **Algorithms** | **[Algorithm Design](https://github.com/GitShashank-7/BITS-StudyHub/tree/main/algorithm-design)** | Graph algorithms, dynamic programming & optimization problems | `Python` `C++` |
-| 🌐 **Open Source** | **[Profile README](https://github.com/GitShashank-7/GitShashank-7)** | Automated live GitHub profile for Shashank Jena | `GitHub Actions` `SVG` |
+| 🌐 **Open Source** | **[profile](https://github.com/GitShashank-7/GitShashank-7)** | Automated live GitHub profile for Shashank Jena | `GitHub Actions` `SVG` |
 
 </div>
 
